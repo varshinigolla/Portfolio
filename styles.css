@@ -701,8 +701,8 @@ nav ul li a:hover {
 
   .image-container img {
     margin-top: 20px;
-    width: 150px; /* Smaller size for mobile */
-    height: 150px;
+    width: 200px; /* Smaller size for mobile */
+    height: 200px;
   }
 
   /* About Section */
